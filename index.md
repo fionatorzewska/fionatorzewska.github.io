@@ -7,10 +7,13 @@ I am currently a PhD student at the University of Leeds supervised by [Professor
 Broadly I study topological categories which are motivated by physics. Some keywords: topological quantum computation, category theory, topological quantum field theory, modular tensor categories, statistical mechanics, motion groupoids, mapping class groupoids.
 
 ## CV
+
 My CV can be found <a href="fionatorzewska.github.io/folder/CV_FTorzewska.pdf" target="_blank">here.</a>
 
 ## Contact
 
+- Email: F.M.TorzewskaATleeds.ac.uk
+- Address: Fiona Torzewska, School of Mathematics, University of Leeds, LS2 9JT, UK 
 
 
 <!-- Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
