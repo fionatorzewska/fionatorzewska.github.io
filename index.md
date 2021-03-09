@@ -8,7 +8,7 @@ Broadly I study topological categories which are motivated by physics. Some keyw
 
 ## CV
 
-My CV can be found <a href="fionatorzewska.github.io/folder/CV_FTorzewska.pdf" target="_blank">here.</a>
+My CV can be found <a href="fionatorzewska.github.io/CV/CV_FTorzewska.pdf" target="_blank">here.</a>
 
 ## Contact
 
