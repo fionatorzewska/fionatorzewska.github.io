@@ -6,10 +6,10 @@ I am currently a PhD student at the University of Leeds supervised by [Professor
 
 Broadly I study topological categories which are motivated by physics. Some keywords: Topological quantum computation, category theory, topological quantum field theory, modular tensor categories, statistical mechanics, motion groupoids, mapping class groupoids.
 
-<!-- ## CV
-My CV can be found here.
+ ## CV
+My CV can be found <a href="username.github.io/folder/document.pdf" target="_blank">here.</a>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<!-- Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
