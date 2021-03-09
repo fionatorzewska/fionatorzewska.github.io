@@ -4,7 +4,7 @@ I am currently a PhD student at the University of Leeds supervised by [Professor
 
 ## Research
 
-Broadly I study topological categories which are motivated by physics. Some keywords: Topological quantum computation, category theory, topological quantum field theory, modular tensor categories, statistical mechanics, motion groupoids, mapping class groupoids.
+Broadly I study topological categories which are motivated by physics. Some keywords: topological quantum computation, category theory, topological quantum field theory, modular tensor categories, statistical mechanics, motion groupoids, mapping class groupoids.
 
  ## CV
 My CV can be found <a href="username.github.io/folder/document.pdf" target="_blank">here.</a>
