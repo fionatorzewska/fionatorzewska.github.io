@@ -2,7 +2,14 @@
 
 I am currently a PhD student at the University of Leeds supervised by [Professor Paul Martin](http://www1.maths.leeds.ac.uk/~ppmartin/research.html) and [Dr. Jo&atilde;o Faria Martins](http://www1.maths.leeds.ac.uk/~pmtjfa/). I am in the job market, looking for positions from October 2021.
 
-<!--Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Research
+
+Broadly I study topological categories which are motivated by physics. Some keywords: Topological quantum computation, category theory, topological quantum field theory, modular tensor categories, statistical mechanics, motion groupoids, mapping class groupoids.
+
+<!-- ## CV
+My CV can be found here.
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
