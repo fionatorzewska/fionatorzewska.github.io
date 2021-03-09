@@ -3,3 +3,8 @@ title: Fiona Torzewska
 description: Personal webpage
 github:
   is_project_page: false
+  
+  avatar: "Images/Me.jpg"
+
+# By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
+round-avatar: false
