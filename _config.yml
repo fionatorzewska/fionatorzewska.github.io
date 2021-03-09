@@ -1,5 +1,5 @@
 theme: jekyll-theme-slate
-title: Fiona Torzewska
+title: Fiona Torzewska test
 description: Personal webpage
 github:
   is_project_page: false
@@ -33,3 +33,5 @@ social-network-links:
 #  mastodon: instance.url/@username
 #  ORCID: your ORCID ID
 #  google-scholar: your google scholar
+
+author: Fiona Torzewska
