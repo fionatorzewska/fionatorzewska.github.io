@@ -1,37 +1,5 @@
 theme: jekyll-theme-slate
-title: Fiona Torzewska test
+title: Fiona Torzewska
 description: Personal webpage
 github:
   is_project_page: false
-  
-  avatar: "Images/Me.jpg"
-
-# By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
-round-avatar: false
-
-social-network-links:
-  email: "F.M.TorzewskaATleeds.ac.uk"
-# facebook: deanattali
-# github: daattali
-# twitter: daattali
-# patreon: DeanAttali
-# youtube: c/daattali
-#  medium: yourname
-#  reddit: yourname
-#  linkedin: daattali
-#  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
-#  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
-#  twitch: yourname
-#  yelp: yourname
-#  telegram: yourname
-#  calendly: yourname
-#  mastodon: instance.url/@username
-#  ORCID: your ORCID ID
-#  google-scholar: your google scholar
-
-author: Fiona Torzewska
