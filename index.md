@@ -1,6 +1,6 @@
 <!--## Welcome to GitHub Pages-->
 
-I am currently a PhD student at the University of Leeds supervised by [Professor Paul Martin](http://www1.maths.leeds.ac.uk/~ppmartin/research.html) and [Dr. Jo&atilde;o Faria Martins](http://www1.maths.leeds.ac.uk/~pmtjfa/). I am in the job market, looking for positions from October 2021.
+I am currently a PhD student in the School of Mathematics, University of Leeds supervised by [Professor Paul Martin](http://www1.maths.leeds.ac.uk/~ppmartin/research.html) and [Dr. Jo&atilde;o Faria Martins](http://www1.maths.leeds.ac.uk/~pmtjfa/). I am in the job market, looking for positions from October 2021.
 
 ## Research
 
