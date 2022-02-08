@@ -1,10 +1,13 @@
 <!--## Welcome to GitHub Pages-->
 
-I am currently a PhD student in the School of Mathematics, University of Leeds supervised by [Professor Paul Martin](http://www1.maths.leeds.ac.uk/~ppmartin/research.html) and [Dr. Jo&atilde;o Faria Martins](http://www1.maths.leeds.ac.uk/~pmtjfa/). I am in the job market, looking for positions from October 2021.
+As of December 2021 I am an EPSRC research associate in the School of Mathematics, University of Leeds. 
+Before that I was a PhD student supervised by [Professor Paul Martin](http://www1.maths.leeds.ac.uk/~ppmartin/research.html) and [Dr. Jo&atilde;o Faria Martins](http://www1.maths.leeds.ac.uk/~pmtjfa/) also at the University of Leeds. I defended my thesis 'Embedded cobordisms, motion groupoids and topological quantum field theories' in December 2021.
 
 ## Research
 
-Broadly I study topological categories which are motivated by physics. Some keywords: topological quantum computation, category theory, topological quantum field theory, modular tensor categories, statistical mechanics, motion groupoids, mapping class groupoids.
+I am interested in a variety of areas where topology, algebra, representation theory and category theory arise in mathematical physics.
+
+Some keywords: topological quantum computation, topological quantum field theory, modular tensor categories, statistical mechanics, motion groupoids, mapping class groupoids
 
 ## CV
 
