@@ -1,9 +1,12 @@
-<!--## Welcome to GitHub Pages-->
+---
+layout: default
+title: Home
+---
 
 As of December 2021 I am an EPSRC research associate in the School of Mathematics, University of Leeds. 
 Before that I was a PhD student supervised by [Professor Paul Martin](http://www1.maths.leeds.ac.uk/~ppmartin/research.html) and [Dr. Jo&atilde;o Faria Martins](http://www1.maths.leeds.ac.uk/~pmtjfa/) also at the University of Leeds. I defended my thesis 'Embedded cobordisms, motion groupoids and topological quantum field theories' in December 2021.
 
-## Research
+## Interests
 
 I am interested in a variety of areas where topology, algebra, representation theory and category theory arise in mathematical physics.
 
