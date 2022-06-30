@@ -3,9 +3,8 @@ layout: page
 title: Research
 ---
 
-## Research
 
-### Papers 
+## Papers 
 
 #### Works in progress
 - 'Topoological quantum field theories for homotopy corbordisms'
