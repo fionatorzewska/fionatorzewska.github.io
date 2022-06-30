@@ -3,6 +3,39 @@ layout: default
 title: Home
 ---
 
+<div class="posts">
+  {% for post in paginator.posts %}
+  <div class="post">
+    <h1 class="post-title">
+      <a href="{{ post.url }}">
+        {{ post.title }}
+      </a>
+    </h1>
+
+    <span class="post-date">{{ post.date | date_to_string }}</span>
+
+    {{ post.content }}
+  </div>
+  {% endfor %}
+</div>
+
+<div class="pagination">
+  {% if paginator.next_page %}
+    <a class="pagination-item older" href="{{ site.baseurl }}page{{paginator.next_page}}">Older</a>
+  {% else %}
+    <span class="pagination-item older">Older</span>
+  {% endif %}
+  {% if paginator.previous_page %}
+    {% if paginator.page == 2 %}
+      <a class="pagination-item newer" href="{{ site.baseurl }}">Newer</a>
+    {% else %}
+      <a class="pagination-item newer" href="{{ site.baseurl }}page{{paginator.previous_page}}">Newer</a>
+    {% endif %}
+  {% else %}
+    <span class="pagination-item newer">Newer</span>
+  {% endif %}
+</div>
+
 As of December 2021 I am an EPSRC research associate in the School of Mathematics, University of Leeds. 
 Before that I was a PhD student supervised by [Professor Paul Martin](http://www1.maths.leeds.ac.uk/~ppmartin/research.html) and [Dr. Jo&atilde;o Faria Martins](http://www1.maths.leeds.ac.uk/~pmtjfa/) also at the University of Leeds. I defended my thesis 'Embedded cobordisms, motion groupoids and topological quantum field theories' in December 2021.
 
