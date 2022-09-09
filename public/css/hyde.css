@@ -55,7 +55,7 @@ html {
 
 .sidebar {
   text-align: center;
-  padding: 2rem 1rem;
+  padding: 1rem 1rem;
   color: rgba(255,255,255,.5);
   background-color: #202020;
 }
@@ -84,9 +84,14 @@ html {
 }
 
 /* Sidebar nav */
+@media (min-width: 48em){
 .sidebar-nav {
   margin-bottom: 3rem;
-}
+  }}
+@media (max-width: 48em){
+.sidebar-nav {
+  margin-bottom: 1rem;
+  }}
 .sidebar-nav-item {
   display: block;
   line-height: 1.75;
