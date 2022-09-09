@@ -9,15 +9,15 @@ title: Conferences
 
 2022:
 
-- 13th-17th June, ['Quantum Topology and Geometry'](https://www.mathconf.org/qtg2022), Institut Henri Poincar&eacute;e
-- 11th-15th July, ['Bicategories, Categorification and Quantum Theory'](https://conferences.leeds.ac.uk/bcqt2022/), University of Leeds
+- 13th-17th June, ['Quantum Topology and Geometry'](https://www.mathconf.org/qtg2022), Institut Henri Poincar&eacute;
+- - 11th-15th July, ['Bicategories, Categorification and Quantum Theory'](https://conferences.leeds.ac.uk/bcqt2022/), University of Leeds
 - 25th-26th August, ['60th ARTIN Meeting'](https://www.nottingham.ac.uk/mathematics/events/artin-2022.aspx), University of Nottingham (Invited talk)
 
 <br> 2020:
 
 - 23rd-24th January, Connections for Women: Quantum Symmetries, MSRI (Poster and flash talk)
 - 27th-31st January, Introductory workshop: Quantum Symmetries, MSRI
-- 17th-21st February, Winter Braids X, Universit\'a di Pisa (Poster and flash talk)
+- 17th-21st February, Winter Braids X, Universit&agrave; di Pisa (Poster and flash talk)
 - 21st-22nd September, Women in Mathematical Physics, BIRS, Banff, online
 
 <br> 2019:
