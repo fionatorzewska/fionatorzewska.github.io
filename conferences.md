@@ -10,7 +10,7 @@ title: Conferences
 2022:
 
 - 13th-17th June, ['Quantum Topology and Geometry'](https://www.mathconf.org/qtg2022), Institut Henri Poincar&eacute;
-- - 11th-15th July, ['Bicategories, Categorification and Quantum Theory'](https://conferences.leeds.ac.uk/bcqt2022/), University of Leeds
+- 11th-15th July, ['Bicategories, Categorification and Quantum Theory'](https://conferences.leeds.ac.uk/bcqt2022/), University of Leeds
 - 25th-26th August, ['60th ARTIN Meeting'](https://www.nottingham.ac.uk/mathematics/events/artin-2022.aspx), University of Nottingham (Invited talk)
 
 <br> 2020:
@@ -29,7 +29,7 @@ title: Conferences
 
 <br> 2018:
 
--28th February - 2nd March, ['Higher Gauge Theory: Where should we look for higher gauge matter?'](http://www1.maths.leeds.ac.uk/~ppmartin/SEMINARS/HGT_WS/), University of Leeds (Organiser)
+- 28th February-2nd March, ['Higher Gauge Theory: Where should we look for higher gauge matter?'](http://www1.maths.leeds.ac.uk/~ppmartin/SEMINARS/HGT_WS/), University of Leeds (Organiser)
 - 20th-22nd Sept, Quantum Computation and Information Workshop, Texas A&#38;M University (Poster)
 
 <br> 2017:
