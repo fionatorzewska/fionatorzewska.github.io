@@ -69,10 +69,6 @@ html {
     text-align: left;
   }
 }
-@media (max-width: 48em) {
-  .sidebarimage {
-    text-align: center;
-  }}
 
 /* Sidebar links */
 .sidebar a {
