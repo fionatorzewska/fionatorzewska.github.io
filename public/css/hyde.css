@@ -121,7 +121,6 @@ a.sidebar-nav-item:focus {
           bottom: 1rem;
           left:   1rem;
         overflow-y:auto;
-        overflow-x:hidden;
     }
 }
 
