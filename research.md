@@ -12,7 +12,7 @@ title: Research
 
 #### Preprints 
 - ['Motion groupoids and mapping class groupoids'](https://arxiv.org/abs/2103.10377) with ['Paul Martin'](https://www1.maths.leeds.ac.uk/~ppmartin/)
-and [Jo&a;tildea Faria Martins](http://www1.maths.leeds.ac.uk/~pmtjfa/)
+and [Jo&atilde;a Faria Martins](http://www1.maths.leeds.ac.uk/~pmtjfa/)
 - ['Topoological quantum field theories and homotopy corbordisms'](https://arxiv.org/abs/2208.14504)
 
 #### Published
