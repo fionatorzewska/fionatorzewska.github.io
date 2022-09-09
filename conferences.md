@@ -5,6 +5,8 @@ title: Conferences
 
 #### Future
 
+- 26th-30th September, ['Higher Categories and topological order'](https://aimath.org/workshops/upcoming/highercattopord/), AIM, San Jose, California
+
 #### Past
 
 2022:
