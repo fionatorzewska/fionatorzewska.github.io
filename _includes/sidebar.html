@@ -1,13 +1,17 @@
-
+<style>
+@media screen and (maxwidth:48em)
+{
+#sidebarimage{
+text-align: center;}
+}
+</style>
 
 <div class="sidebar">
   <div class="container sidebar-sticky" >
     @media screen and (max-width: 48em) {
-    <div style="text-align: center">
+    <div id="sidebarimage">
     <img src='{{"/Images/Me.jpg" | absolute_url}}' alt="Me" style="width:75%;" > 
-    </div>}
-    @media screen and (min-width: 48em){
-    <img src='{{"/Images/Me.jpg" | absolute_url}}' alt="Me" style="width:75%;" > }
+    </div>
     <div class="sidebar-about">
       <h1 style="font-size:180%;">
         <a href="{{ '/' | relative_url }}">
