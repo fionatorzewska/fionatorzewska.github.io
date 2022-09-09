@@ -116,11 +116,10 @@ a.sidebar-nav-item:focus {
 
   @media (min-width: 48em) {
     .sidebar-sticky{
-         <!-- position: absolute; -->
-          right:  1rem;
-          bottom: 1rem;
-          left:   1rem;
+        top:1rem;
         overflow-y:auto;
+        overflow-x:hidden;
+        height:100%;
     }
 }
 
