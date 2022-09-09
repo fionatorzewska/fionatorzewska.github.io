@@ -1,9 +1,7 @@
 <div class="sidebar">
   <div class="container sidebar-sticky" >
-      <div class="container">
-          <img src='{{"/Images/Me.jpg" | absolute_url}}' alt="Me" style="display: block; margin-left: auto; margin-right: auto; width:75%;"> 
-   </div>
     <div class="sidebar-about">
+      <img src='{{"/Images/Me.jpg" | absolute_url}}' alt="Me" style="display: block; margin-left: auto; margin-right: auto; width:100%;"> 
       <h1 style="font-size:180%"; position: relative;>
         <a href="{{ '/' | relative_url }}">
           {{ site.title }}
@@ -34,6 +32,6 @@
     </nav>
 
    <!--- <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p> --->
-      <p style="font-size:50%"; position=absolute; bottom=0>School of Mathematics, University of Leeds, Leeds,</em> LS2 9JT, UK. </p>
+      <p style="font-size:50%; position: absolute; bottom: 0">School of Mathematics, University of Leeds, Leeds,</em> LS2 9JT, UK. </p>
   </div>
 </div>
