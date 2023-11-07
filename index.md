@@ -37,8 +37,8 @@ title: Home
   {% endif %}
 </div> --->
 
-As of December 2021 I am an EPSRC research associate in the School of Mathematics, University of Leeds. 
-Before that I was a PhD student supervised by [Professor Paul Martin](http://www1.maths.leeds.ac.uk/~ppmartin/research.html) and [Dr. Jo&atilde;o Faria Martins](http://www1.maths.leeds.ac.uk/~pmtjfa/) also at the University of Leeds. I defended my thesis 'Embedded cobordisms, motion groupoids and topological quantum field theories' in December 2021.
+As of October 2023 I am a Research Fellow at the University of Bristol. Before that I was in the group of [Nils Carqueville](https://www.carqueville.net/nils/group.php) in Vienna funded by first a Junior Reseach Fellow from the Erwin Schrödinger Institute and then a Cecil King travel scholarship from the LMS. Even before that I was a Senior Research associate at the University of East Anglia with [Vanessa Miemietz](https://research-portal.uea.ac.uk/en/persons/vanessa-miemietz), and an EPSRC research associate in the School of Mathematics, University of Leeds. 
+I defended my PhD thesis 'Embedded cobordisms, motion groupoids and topological quantum field theories' in December 2021, supervised by [Paul Martin](http://www1.maths.leeds.ac.uk/~ppmartin/research.html) and [Jo&atilde;o Faria Martins](http://www1.maths.leeds.ac.uk/~pmtjfa/). 
 
 ## Interests
 
