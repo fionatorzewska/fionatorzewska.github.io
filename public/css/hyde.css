@@ -152,7 +152,7 @@ a.sidebar-nav-item:focus {
 
 @media (max-width: 48em) {
   .content {
-    margin-left: 22rem;
+    margin-left: 4rem;
     margin-right: 4rem;
   }
 }
