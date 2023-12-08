@@ -12,15 +12,15 @@ title: Conferences
 <br> 2023:
 
 - 26th Feb-3rd March, [Applications of Hecke and related algebras: Representations, Integrability and Physics](https://indico.math.cnrs.fr/event/6037/), Ecole de Physique des Houches
-- 14th-18th August, ['Higher Structures in Functorial Field Theory'](https://homepages.uni-regensburg.de/~lum63364/ConferenceFFT/), University of Regensburg
-- 9th-13th October, ['https://www.icms.org.uk/TopologicalQuantumComputation'](Topological Quantum Computation), ICMS, Edinburgh
+- 14th-18th August, [Higher Structures in Functorial Field Theory](https://homepages.uni-regensburg.de/~lum63364/ConferenceFFT/), University of Regensburg
+- 9th-13th October, [Topological Quantum Computation](https://www.icms.org.uk/TopologicalQuantumComputation), ICMS, Edinburgh
 
 <br> 2022:
 
-- 13th-17th June, ['Quantum Topology and Geometry'](https://www.mathconf.org/qtg2022), Institut Henri Poincar&eacute;
-- 11th-15th July, ['Bicategories, Categorification and Quantum Theory'](https://conferences.leeds.ac.uk/bcqt2022/), University of Leeds
-- 25th-26th August, ['60th ARTIN Meeting'](https://www.nottingham.ac.uk/mathematics/events/artin-2022.aspx), University of Nottingham (Invited talk)
-- 26th-30th September, ['Higher Categories and topological order'](https://aimath.org/workshops/upcoming/highercattopord/), AIM, San Jose, California
+- 13th-17th June, [Quantum Topology and Geometry](https://www.mathconf.org/qtg2022), Institut Henri Poincar&eacute;
+- 11th-15th July, [Bicategories, Categorification and Quantum Theory](https://conferences.leeds.ac.uk/bcqt2022/), University of Leeds
+- 25th-26th August, [60th ARTIN Meeting](https://www.nottingham.ac.uk/mathematics/events/artin-2022.aspx), University of Nottingham (Invited talk)
+- 26th-30th September, [Higher Categories and topological order](https://aimath.org/workshops/upcoming/highercattopord/), AIM, San Jose, California
 
 <br> 2020:
 
