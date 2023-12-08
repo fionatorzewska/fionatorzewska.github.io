@@ -11,7 +11,7 @@ title: Conferences
 
 <br> 2023:
 
-- 26th Feb-3rd March, ['Applications of Hecke and related algebras: Representations, Integrability and Physics'](https://indico.math.cnrs.fr/event/6037/), Ecole de Physique des Houches
+- 26th Feb-3rd March, [Applications of Hecke and related algebras: Representations, Integrability and Physics](https://indico.math.cnrs.fr/event/6037/), Ecole de Physique des Houches
 - 14th-18th August, ['Higher Structures in Functorial Field Theory'](https://homepages.uni-regensburg.de/~lum63364/ConferenceFFT/), University of Regensburg
 - 9th-13th October, ['https://www.icms.org.uk/TopologicalQuantumComputation'](Topological Quantum Computation), ICMS, Edinburgh
 
