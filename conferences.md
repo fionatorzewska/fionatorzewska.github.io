@@ -3,11 +3,11 @@ layout: page
 title: Conferences
 ---
 
-<!--- #### Future --->
+#### Future
 
+- 5th-10th May, [Skew Braces, Braids and the Yang-Baxter Equation](https://www.birs.ca/events/2024/5-day-workshops/24w5201), BIRS
 
-
-<!--- #### Past --->
+#### Past
 
 <br> 2023:
 
