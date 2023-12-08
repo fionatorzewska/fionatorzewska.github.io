@@ -48,7 +48,7 @@ Some keywords: topological quantum computation, topological quantum field theory
 
 ## CV
 
-My CV can be found <a href="CV/CV_FTorzewska.pdf" target="_blank">here.</a>
+My CV can be found <a href="CV/CV_FTorzewskaWebsite.pdf" target="_blank">here.</a>
 
 
 <!-- Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
