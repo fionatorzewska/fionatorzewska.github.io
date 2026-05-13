@@ -37,18 +37,14 @@ title: Home
   {% endif %}
 </div> --->
 
-As of October 2023 I am a Research Fellow at the University of Bristol. Before that I was in the group of [Nils Carqueville](https://www.carqueville.net/nils/group.php) in Vienna funded by first a Junior Reseach Fellow from the Erwin Schrödinger Institute and then a Cecil King travel scholarship from the LMS. Even before that I was a Senior Research associate at the University of East Anglia with [Vanessa Miemietz](https://research-portal.uea.ac.uk/en/persons/vanessa-miemietz), and an EPSRC research associate in the School of Mathematics, University of Leeds. 
+As of October 2023 I am a Heilbronn Research Fellow at the University of Bristol. Before that I was in the group of [Nils Carqueville](https://www.carqueville.net/nils/group.php) in Vienna funded by first a Junior Reseach Fellow from the Erwin Schrödinger Institute and then a Cecil King travel scholarship from the LMS. Even before that I was a Senior Research associate at the University of East Anglia with [Vanessa Miemietz](https://research-portal.uea.ac.uk/en/persons/vanessa-miemietz), and an EPSRC research associate in the School of Mathematics, University of Leeds. 
 I defended my PhD thesis 'Embedded cobordisms, motion groupoids and topological quantum field theories' in December 2021, supervised by [Paul Martin](http://www1.maths.leeds.ac.uk/~ppmartin/research.html) and [Jo&atilde;o Faria Martins](http://www1.maths.leeds.ac.uk/~pmtjfa/). 
 
 ## Interests
 
 I am interested in a variety of areas where topology, algebra, representation theory and category theory arise in mathematical physics.
 
-Some keywords: topological quantum computation, topological quantum field theory, modular tensor categories, statistical mechanics, motion groupoids, mapping class groupoids
-
-## CV
-
-My CV can be found <a href="CV/CV_FTorzewskaWebsite.pdf" target="_blank">here.</a>
+Some keywords: topological quantum computation, topological quantum field theory, modular tensor categories, statistical mechanics, motion groupoids, mapping class groupoids, categorification, higher representation theory
 
 
 <!-- Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
