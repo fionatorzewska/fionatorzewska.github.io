@@ -21,5 +21,5 @@ and [Jo&atilde;o Faria Martins](http://www1.maths.leeds.ac.uk/~pmtjfa/)
 - [Non-ergodicity in open quantum systems through quantum feedback](https://epljournal.edpsciences.org/articles/epl/abs/2020/11/epl20169/epl20169.html), _Europhysics Letters_, 2020  and [arXiv](https://arxiv.org/abs/1611.03716) with [Lewis Clark]([https://www.staff.ncl.ac.uk/lewisclark/](https://scholar.google.co.uk/citations?user=UOzma1QAAAAJ&hl=en)), Ben Maybee and [Almut Beige](https://theory.leeds.ac.uk/dr-almut-beige/)
 
 
-### Thesis 
+## Thesis 
 - My thesis 'Embedded cobordisms, motion groupoids and topological quantum field theories' is available [here](https://etheses.whiterose.ac.uk/30137/).
