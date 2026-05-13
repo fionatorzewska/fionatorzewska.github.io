@@ -6,9 +6,11 @@ title: Research
 
 ## Papers 
 
+
 #### Preprints 
-- [A categorical perspective on braid representations](https://arxiv.org/abs/2506.07950) with [Paul Martin](https://www1.maths.leeds.ac.uk/~ppmartin/) and [Eric Rowell](https://people.tamu.edu/~rowell/)
 - [Categorical 4-manifold invariants from trisection diagrams](https://arxiv.org/abs/2511.19384) with [Catherine Meusburger](https://en.www.math.fau.de/lie-groups/scientific-staff/prof-dr-catherine-meusburger/) and [Vincentas Mulevicius](https://ufind.univie.ac.at/en/person.html?id=1015044)
+- [A categorical perspective on braid representations](https://arxiv.org/abs/2506.07950) with [Paul Martin](https://www1.maths.leeds.ac.uk/~ppmartin/) and [Eric Rowell](https://people.tamu.edu/~rowell/)
+
 
 #### Published
 - [Paravortices: loop braid representations with both generators involutive](https://www.sciencedirect.com/science/article/pii/S055032132600180X), _Nuclear Physics B_, 2026 and [arXiv](https://arxiv.org/abs/2512.17830) with [Paul Martin](https://www1.maths.leeds.ac.uk/~ppmartin/) and [Eric Rowell](https://people.tamu.edu/~rowell/)
