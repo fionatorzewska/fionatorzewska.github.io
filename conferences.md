@@ -3,11 +3,18 @@ layout: page
 title: Conferences
 ---
 
-#### Future
+<br> 2025:
 
-- 5th-10th May, [Skew Braces, Braids and the Yang-Baxter Equation](https://www.birs.ca/events/2024/5-day-workshops/24w5201), BIRS
+- 9th-11th April, [Introduction to Modern Advances in Algebra](https://sites.google.com/view/itmaia2025/home), University of Manchester
+- 15th-21st June, [The Yang-Baxter Equation and All That](https://sites.google.com/impan.pl/ybe), Banach Canter, Bedlewo
+- 13th-19th July, [CT2025](https://archive.math.muni.cz/conference/ct2025/index.html), Masaryk University, Brno
+- 26th-31st October, [Mini-Workshop: The Yang-Baxter Equation and Representations of Braid Groups](https://publications.mfo.de/handle/mfo/4398), Mathematisches Forschungsinstitut Oberwolfach
 
-#### Past
+<br> 2024:
+
+- 18th-22nd May, [Higher Categorical Tools for Topological Phases of Matter](https://events.perimeterinstitute.ca/event/59/), Perimeter Institute for Theoretical Physics
+- 5th-10th May, [Skew Braces, Braids and the Yang-Baxter Equation](https://www.birs.ca/events/2024/5-day-workshops/24w5201), Banff International Research Station
+- 3rd-7th June, [Algebraic structures in the Yang-Baxter Equation](https://www.birs.ca/events/2024/5-day-workshops/24w5201), Heriot-Watt University, Edinburgh
 
 <br> 2023:
 
